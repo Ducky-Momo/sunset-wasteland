@@ -643,6 +643,7 @@
 /obj/structure/closet,
 /obj/effect/spawner/lootdrop/f13/blueprintMid,
 /obj/effect/spawner/lootdrop/f13/blueprintMid,
+/obj/item/book/granter/trait/pa_wear,
 /turf/open/floor/f13{
 	icon_state = "whitegreenrustychess"
 	},
@@ -899,6 +900,7 @@
 /obj/item/trash/coal,
 /obj/item/reagent_containers/hypospray/medipen/stimpak/super,
 /obj/effect/spawner/lootdrop/f13/blueprintMid,
+/obj/item/book/granter/trait/pa_wear,
 /turf/open/floor/plating/tunnel{
 	icon_state = "tunnelchess"
 	},
@@ -6570,7 +6572,6 @@
 	icon_state = "2-4"
 	},
 /obj/structure/table,
-/obj/item/book/granter/trait/pa_wear,
 /turf/open/floor/plasteel/dark,
 /area/f13/vault)
 "gIa" = (
@@ -16564,7 +16565,7 @@
 "qBx" = (
 /obj/machinery/vending/wallmed{
 	pixel_y = 30;
-	products = list(/obj/item/reagent_containers/syringe = 3, /obj/item/reagent_containers/pill/patch/styptic = 10, /obj/item/reagent_containers/pill/patch/silver_sulf = 10, /obj/item/reagent_containers/medspray/styptic = 4, /obj/item/reagent_containers/medspray/silver_sulf = 4, /obj/item/reagent_containers/pill/charcoal = 2, /obj/item/reagent_containers/medspray/sterilizine = 2)
+	products = list(/obj/item/reagent_containers/syringe=3,/obj/item/reagent_containers/pill/patch/styptic=10,/obj/item/reagent_containers/pill/patch/silver_sulf=10,/obj/item/reagent_containers/medspray/styptic=4,/obj/item/reagent_containers/medspray/silver_sulf=4,/obj/item/reagent_containers/pill/charcoal=2,/obj/item/reagent_containers/medspray/sterilizine=2)
 	},
 /obj/item/twohanded/required/kirbyplants/random,
 /turf/open/floor/plasteel/f13/vault_floor/blue/white,
@@ -23002,6 +23003,16 @@
 /obj/structure/window/reinforced/tinted,
 /turf/open/floor/f13/wood,
 /area/f13/vault)
+"xkI" = (
+/obj/structure/closet/crate,
+/obj/item/book/granter/trait/pa_wear,
+/obj/item/clothing/mask/cigarette/rollie/cannabis,
+/obj/item/storage/box/matches,
+/obj/item/reagent_containers/food/drinks/beer,
+/turf/open/floor/plasteel/barber{
+	icon_state = "plating"
+	},
+/area/f13/bunker)
 "xls" = (
 /turf/open/indestructible/ground/outside/road{
 	dir = 1;
@@ -59891,7 +59902,7 @@ oqm
 bqg
 oqm
 oqm
-qer
+xkI
 oqm
 oqm
 pIE
