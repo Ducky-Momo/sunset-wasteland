@@ -643,6 +643,7 @@
 /obj/structure/closet,
 /obj/effect/spawner/lootdrop/f13/blueprintMid,
 /obj/effect/spawner/lootdrop/f13/blueprintMid,
+/obj/item/book/granter/trait/pa_wear,
 /turf/open/floor/f13{
 	icon_state = "whitegreenrustychess"
 	},
@@ -894,11 +895,10 @@
 /turf/open/floor/plating/tunnel,
 /area/f13/radiation)
 "aVQ" = (
-/obj/structure/table/wood/settler,
-/obj/item/paper,
-/obj/item/trash/coal,
 /obj/item/reagent_containers/hypospray/medipen/stimpak/super,
 /obj/effect/spawner/lootdrop/f13/blueprintMid,
+/obj/item/book/granter/trait/pa_wear,
+/obj/structure/closet/locker,
 /turf/open/floor/plating/tunnel{
 	icon_state = "tunnelchess"
 	},
